@@ -26,7 +26,7 @@
           meetingId: meetingId,
           
           containerId: null,
-          redirectOnLeave: "http://videopoc.test/pocx/",
+          redirectOnLeave: "http://videopoc.test/poc/",
           // redirectOnLeave: "https://guruu.broadweb.link/poc/",
 
           micEnabled: true,
